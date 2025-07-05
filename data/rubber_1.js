@@ -1,0 +1,1 @@
+var json_rubber_1 = {"type":"FeatureCollection","name":"rubber_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","rubber":null},"geometry":{"type":"Point","coordinates":[134.189500779370945,-1.453481437089166]}}]}
